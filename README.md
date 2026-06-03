@@ -11,10 +11,10 @@ Incoming messages trigger custom workflows and return
 instant replies — fully self-hosted, no third-party services.
 
 **Stack:** n8n · WAHA · Docker · Ubuntu Server 24.04  
-![WhatsApp Bot Workflow](workflow_n8n.jpg)
+![WhatsApp Bot Workflow](n8n.png)
 **Status:** ✅ Live
 
-![WhatsApp Bot Workflow](Dashboard_WAHA.jpg)
+![WhatsApp Bot Workflow](waha.png)
 
 ### Server Monitoring Dashboard
 Real-time server monitoring with automated alerting.
