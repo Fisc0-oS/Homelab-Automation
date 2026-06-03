@@ -14,6 +14,8 @@ instant replies — fully self-hosted, no third-party services.
 ![WhatsApp Bot Workflow](workflow_n8n.jpg)
 **Status:** ✅ Live
 
+![WhatsApp Bot Workflow](Dashboard_WAHA.jpg)
+
 ### Server Monitoring Dashboard
 Real-time server monitoring with automated alerting.
 Uptime tracking, resource usage and instant notifications
